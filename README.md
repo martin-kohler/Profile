@@ -1,2 +1,2 @@
 # About me
-Profile
+learing more about software development
